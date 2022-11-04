@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vadim Sherbinin
-- 👀 I’m interested in 
-frontend development
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on long term
+- 👀 I am interested in frontend development, site layout and turnkey manufacturing.
+- 🌱I work for React. My stack: Javascript, Typescript, Redux(Toolkit, Thunk), MaterialUI, FareBase, SCSS, BEM, HTML, ReactHooks.
+- 💞️ I am considering full-time employment and interesting freelance projects.
 - 📫 How to reach me: mail: sherbinin9292@mail.ru
 - +7-961-607-86-48
 - 
